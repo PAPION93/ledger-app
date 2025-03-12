@@ -1,0 +1,17 @@
+# 환경 파일 (보안 문제 방지)
+.env
+
+# Node.js 의존성 (React)
+frontend/node_modules
+
+# Composer 의존성 (Laravel)
+backend/vendor
+
+# Docker 볼륨 데이터
+db_data/
+pgadmin_data/
+
+# IDE 설정 파일
+.vscode/
+.idea/
+
